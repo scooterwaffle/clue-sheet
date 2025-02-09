@@ -22,6 +22,10 @@
   base_character: true
   emoji: 🟥
 
+- name: Mr. Scarlet
+  base_character: true
+  emoji: 🟥
+
 - name: Mme. Rose
   base_character: false
   edition: master
